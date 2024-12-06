@@ -1,7 +1,7 @@
 # Vvvmm
 
 ## About
-"Shara" एक HTML और CSS डेमो प्रोजेक्ट है।
+"Vvvmm" एक HTML और CSS डेमो प्रोजेक्ट है।
 
 ## Installation
 1. GitHub से प्रोजेक्ट डाउनलोड करें:
